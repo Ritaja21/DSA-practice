@@ -1,3 +1,4 @@
+//To find Maximum and Minimum of an Array
 import java.util.*;
 
 public class MaxMinArray{
@@ -28,3 +29,4 @@ public class MaxMinArray{
    System.out.println("The minimum number in this array is:"+ min);
  }
 } 
+//To practice and revise Java syntax and brush up basic logical & syntactical knowledge
